@@ -14,3 +14,13 @@ The data generally includes information about:
 
 ### Coverage:
 The dataset covers 31 states, with data from dozens of individual departments. It's worth noting that the availability and granularity of the data can vary across states and departments, based on their respective data collection and reporting practices.
+
+### Approach
+- Data Cleaning
+- Exploratory Data Analysis
+- Statistical Analysis
+- Visualization Techniques (EDA and Tableau)
+
+### Conclusion
+The project includes the interpretation of analysis results and insights gained from traffic stoppage data.
+
